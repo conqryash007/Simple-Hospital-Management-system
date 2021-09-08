@@ -1,14 +1,6 @@
 /*
-=============TEAM CODING CONQUERORS=============
-
-TEAM MEMBERS
-------------
 
 YASH GUPTA B420066
-
-ABHISHEK KUMAR YADAV B420002
-
-AMEEN BASHEER B420006
 
 Under the guidance of
 Prof. Bharati Mishra
@@ -74,16 +66,11 @@ int main()
     printf("* ************************** *\n");
     printf("* *------------------------* *\n");
     printf("* *________________________* *\n");
-    printf("* * NAMES OF GROUP MEMBERS * *\n");
-    printf("* *________________________* *\n");
-    printf("* *------------------------* *\n");
-    printf("* *                        * *\n");
-    printf("* *        AMEEN BASHEER   * *\n");
     printf("* *                        * *\n");
     printf("* *---    YASH GUPTA    ---* *\n");
     printf("* *                        * *\n");
-    printf("* *   ABHISHEK KUMAR YADAV * *\n");
     printf("* ************************** *\n");
+    printf("* ************************** *\n");    
     printf("*                            *\n");
     printf("******************************\n");
 
